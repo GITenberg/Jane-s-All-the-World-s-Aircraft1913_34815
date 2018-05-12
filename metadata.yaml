@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35153
     wikipedia: http://en.wikipedia.org/wiki/Fred_T._Jane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34815#Jane-s-All-the-World-s-Aircraft1913
 gutenberg_issued: '2011-01-02'
 gutenberg_type: Text
 identifiers:
